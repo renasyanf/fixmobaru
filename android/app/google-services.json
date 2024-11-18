@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "363731383456",
+    "project_id": "fixmobb-922fe",
+    "storage_bucket": "fixmobb-922fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363731383456:android:57a0902a07c32e626005c5",
+        "android_client_info": {
+          "package_name": "com.example.fixmobb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363731383456-qpl49tfs0mtdj1uq0pf7vjcoro1oh6uo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fixmobb",
+            "certificate_hash": "d5039604b5b6e2dc92539b1f3395d52bf8016c7c"
+          }
+        },
+        {
+          "client_id": "363731383456-v4rqo6ttnf8dm74l5u5dui238p3stof6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8JCwv24XV_osuU1VFS_qh_IqO8X_g1VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363731383456-v4rqo6ttnf8dm74l5u5dui238p3stof6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
