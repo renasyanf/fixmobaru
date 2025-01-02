@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "nama_sparepart": "Oli Mesin 10W-40",
+      "kategori": "Oli",
+      "harga": 75000,
+      "stok": 50,
+      "kode_sparepart": "OLM001",
+      "merk": "Pertamina",
+      "gambar": "https://example.com/images/oli_mesin_10w40.jpg"
+    },
+    {
+      "id": 2,
+      "nama_sparepart": "Oli Mesin 15W-50",
+      "kategori": "Oli",
+      "harga": 80000,
+      "stok": 40,
+      "kode_sparepart": "OLM002",
+      "merk": "Shell",
+      "gambar": "https://example.com/images/oli_mesin_15w50.jpg"
+    },
+    {
+      "id": 3,
+      "nama_sparepart": "Oli Mesin 5W-30",
+      "kategori": "Oli",
+      "harga": 85000,
+      "stok": 30,
+      "kode_sparepart": "OLM003",
+      "merk": "Castrol",
+      "gambar": "https://example.com/images/oli_mesin_5w30.jpg"
+    },
+    {
+      "id": 4,
+      "nama_sparepart": "Oli Gardan",
+      "kategori": "Oli",
+      "harga": 40000,
+      "stok": 60,
+      "kode_sparepart": "OLG004",
+      "merk": "Pertamina",
+      "gambar": "https://example.com/images/oli_gardan.jpg"
+    },
+    {
+      "id": 5,
+      "nama_sparepart": "Oli Transmisi Manual",
+      "kategori": "Oli",
+      "harga": 65000,
+      "stok": 35,
+      "kode_sparepart": "OLT005",
+      "merk": "Total",
+      "gambar": "https://example.com/images/oli_transmisi_manual.jpg"
+    },
+    {
+      "id": 6,
+      "nama_sparepart": "Oli Transmisi CVT",
+      "kategori": "Oli",
+      "harga": 95000,
+      "stok": 25,
+      "kode_sparepart": "OLC006",
+      "merk": "Honda",
+      "gambar": "https://example.com/images/oli_transmisi_cvt.jpg"
+    },
+    {
+      "id": 7,
+      "nama_sparepart": "Oli Mesin Diesel 15W-40",
+      "kategori": "Oli",
+      "harga": 120000,
+      "stok": 20,
+      "kode_sparepart": "OLD007",
+      "merk": "Shell",
+      "gambar": "https://example.com/images/oli_mesin_diesel_15w40.jpg"
+    },
+    {
+      "id": 8,
+      "nama_sparepart": "Oli Rem DOT 3",
+      "kategori": "Oli",
+      "harga": 50000,
+      "stok": 40,
+      "kode_sparepart": "OLR008",
+      "merk": "Prestone",
+      "gambar": "https://example.com/images/oli_rem_dot3.jpg"
+    },
+    {
+      "id": 9,
+      "nama_sparepart": "Oli Rem DOT 4",
+      "kategori": "Oli",
+      "harga": 60000,
+      "stok": 35,
+      "kode_sparepart": "OLR009",
+      "merk": "Bosch",
+      "gambar": "https://example.com/images/oli_rem_dot4.jpg"
+    },
+    {
+      "id": 10,
+      "nama_sparepart": "Oli Shockbreaker",
+      "kategori": "Oli",
+      "harga": 45000,
+      "stok": 50,
+      "kode_sparepart": "OLS010",
+      "merk": "KYB",
+      "gambar": "https://example.com/images/oli_shockbreaker.jpg"
+    },
+    {
+      "id": 11,
+      "nama_sparepart": "Oli Mesin 10W-30",
+      "kategori": "Oli",
+      "harga": 70000,
+      "stok": 45,
+      "kode_sparepart": "OLM011",
+      "merk": "Federal Oil",
+      "gambar": "https://example.com/images/oli_mesin_10w30.jpg"
+    },
+    {
+      "id": 12,
+      "nama_sparepart": "Oli Mesin Full Synthetic",
+      "kategori": "Oli",
+      "harga": 130000,
+      "stok": 15,
+      "kode_sparepart": "OLM012",
+      "merk": "Mobil 1",
+      "gambar": "https://example.com/images/oli_mesin_full_synthetic.jpg"
+    },
+    {
+      "id": 13,
+      "nama_sparepart": "Oli Mesin 0W-20",
+      "kategori": "Oli",
+      "harga": 90000,
+      "stok": 30,
+      "kode_sparepart": "OLM013",
+      "merk": "Toyota",
+      "gambar": "https://example.com/images/oli_mesin_0w20.jpg"
+    },
+    {
+      "id": 14,
+      "nama_sparepart": "Oli Mesin 10W-60",
+      "kategori": "Oli",
+      "harga": 140000,
+      "stok": 10,
+      "kode_sparepart": "OLM014",
+      "merk": "Motul",
+      "gambar": "https://example.com/images/oli_mesin_10w60.jpg"
+    },
+    {
+      "id": 15,
+      "nama_sparepart": "Oli Mesin 15W-40",
+      "kategori": "Oli",
+      "harga": 85000,
+      "stok": 50,
+      "kode_sparepart": "OLM015",
+      "merk": "Total",
+      "gambar": "https://example.com/images/oli_mesin_15w40.jpg"
+    }
+  ]
+  

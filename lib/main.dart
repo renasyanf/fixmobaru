@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart'; // Import Firebase Core
-import 'package:fixmobb/pages/onboard1.dart'; 
+import 'package:fixmobb/screen/customer/onboard1.dart'; 
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

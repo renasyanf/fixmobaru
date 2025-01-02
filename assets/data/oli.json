@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "nama_sparepart": "Oli Mesin 10W-40",
+      "kategori": "Oli",
+      "harga": 75000,
+      "stok": 50,
+      "kode_sparepart": "OLM001",
+      "merk": "Pertamina",
+      "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/1362/shell_shell-oli-mesin-mobil-engine-oil-pelumas-helix-hx5-15w-50-galon-4-liter_full01.jpg"
+    },
+    {
+      "id": 2,
+      "nama_sparepart": "Oli Mesin 15W-50",
+      "kategori": "Oli",
+      "harga": 80000,
+      "stok": 40,
+      "kode_sparepart": "OLM002",
+      "merk": "Shell",
+      "gambar": "https://more2drive.com/public/uploads/all/Vpb0bK530yBIjBfChHrKv8yqZHUBxXP4xOt0uE2N.jpg"
+    },
+    {
+      "id": 3,
+      "nama_sparepart": "Oli Mesin 5W-30",
+      "kategori": "Oli",
+      "harga": 85000,
+      "stok": 30,
+      "kode_sparepart": "OLM003",
+      "merk": "Castrol",
+      "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/96/MTA-59134191/oem_oem_full01.jpg"
+    },
+    {
+      "id": 4,
+      "nama_sparepart": "Oli Gardan",
+      "kategori": "Oli",
+      "harga": 40000,
+      "stok": 60,
+      "kode_sparepart": "OLG004",
+      "merk": "Pertamina",
+      "gambar": "https://s3.bukalapak.com/img/34551351892/large/data.jpeg"
+    },
+    {
+      "id": 5,
+      "nama_sparepart": "Oli Transmisi Manual",
+      "kategori": "Oli",
+      "harga": 65000,
+      "stok": 35,
+      "kode_sparepart": "OLT005",
+      "merk": "Total",
+      "gambar": "https://s3.bukalapak.com/img/85844930162/large/data.jpeg"
+    },
+    {
+      "id": 6,
+      "nama_sparepart": "Oli Transmisi CVT",
+      "kategori": "Oli",
+      "harga": 95000,
+      "stok": 25,
+      "kode_sparepart": "OLC006",
+      "merk": "Honda",
+      "gambar": "https://s1.bukalapak.com/img/6873029321/m-1000-1000/Oli_CVT_Fluid___Oli_Transmisi_Matic_Mobil___Pelumas_Oli_ATF_.jpg"
+    },
+    {
+      "id": 7,
+      "nama_sparepart": "Oli Mesin Diesel 15W-40",
+      "kategori": "Oli",
+      "harga": 120000,
+      "stok": 20,
+      "kode_sparepart": "OLD007",
+      "merk": "Shell",
+      "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/shell_shell-rimula-r4x-15w-40-oli-pelumas--5-liter-_full10.jpg"
+    },
+    {
+      "id": 8,
+      "nama_sparepart": "Oli Rem DOT 3",
+      "kategori": "Oli",
+      "harga": 50000,
+      "stok": 40,
+      "kode_sparepart": "OLR008",
+      "merk": "Prestone",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r992-luhs87smw14hf5"
+    },
+    {
+      "id": 9,
+      "nama_sparepart": "Oli Rem DOT 4",
+      "kategori": "Oli",
+      "harga": 60000,
+      "stok": 35,
+      "kode_sparepart": "OLR009",
+      "merk": "Bosch",
+      "gambar": "https://lzd-img-global.slatic.net/g/p/1c736e3916b8a6fcbfd803fc874c5529.jpg_720x720q80.jpg"
+    },
+    {
+      "id": 10,
+      "nama_sparepart": "Oli Shockbreaker",
+      "kategori": "Oli",
+      "harga": 45000,
+      "stok": 50,
+      "kode_sparepart": "OLS010",
+      "merk": "KYB",
+      "gambar": "https://down-id.img.susercontent.com/file/sg-11134201-23020-7gijrv4o0gnv56"
+    },
+    {
+      "id": 11,
+      "nama_sparepart": "Oli Mesin 10W-30",
+      "kategori": "Oli",
+      "harga": 70000,
+      "stok": 45,
+      "kode_sparepart": "OLM011",
+      "merk": "Federal Oil",
+      "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/102/MTA-6683484/federal_oil_federal_oil_ultratec_scooter_matic_sae_10w-30_4t_oli_motor_800ml_-dijamin_asli-_full02_l9mq2b4o.jpg"
+    },
+    {
+      "id": 12,
+      "nama_sparepart": "Oli Mesin Full Synthetic",
+      "kategori": "Oli",
+      "harga": 130000,
+      "stok": 15,
+      "kode_sparepart": "OLM012",
+      "merk": "Toyota",
+      "gambar": ""
+    },
+    {
+      "id": 13,
+      "nama_sparepart": "Oli Mesin 0W-20",
+      "kategori": "Oli",
+      "harga": 90000,
+      "stok": 30,
+      "kode_sparepart": "OLM013",
+      "merk": "Toyota",
+      "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/92/MTA-3293740/toyota-genuine-parts_toyota-motor-oil-tmo-5w-30-api-sn--1-liter--pelumas-oli-mesin-mobil-full-synthetic_full02.jpg"
+    },
+    {
+      "id": 14,
+      "nama_sparepart": "Oli Mesin 10W-60",
+      "kategori": "Oli",
+      "harga": 140000,
+      "stok": 10,
+      "kode_sparepart": "OLM014",
+      "merk": "Motul",
+      "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/97/MTA-1976245/motul_oli-motul-7100-4t-10w-60-oli-pelumas--1-l-_full02.jpg"
+    },
+    {
+      "id": 15,
+      "nama_sparepart": "Oli Mesin 15W-40",
+      "kategori": "Oli",
+      "harga": 85000,
+      "stok": 50,
+      "kode_sparepart": "OLM015",
+      "merk": "Total",
+      "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/catalog-image/85/MTA-130330721/br-m036969-03306_oli-mesin-diesel-mobil-truk-total-rubia-tir-6400-15w-40-1-liter_full01-9d630fd0.jpg"
+    }
+  ]
+  
